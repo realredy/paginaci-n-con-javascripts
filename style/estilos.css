@@ -1,0 +1,20 @@
+   h1 {  display:block; width:90%; 
+   background: lightblue; }
+    
+#initial{width: 90%; overflow: hidden;
+  list-style:none;}
+li:hover, a:hover{background: darkgray;}
+*:active{background: darkgray;}
+
+ .back, .next{display: block;  color: white; line-height:30px;
+float: left;height: 30px; padding: 2px; 
+background: gray; padding:2px 8px; margin-right:1px; cursor:pointer; }
+ 
+
+#initial ul li{display: block;
+float: left; height: 30px; padding: 2px; 
+background: gray; margin-right:2px; 
+color: white;}
+
+#initial ul li a{color: white; padding: 10px; text-decoration: none;
+font-weight: 600; line-height: 30px; }
